@@ -1,0 +1,3 @@
+[submodule "public/themes"]
+	path = public/themes
+	url = git@github.com:kareemwezza/poc-submodule.git
